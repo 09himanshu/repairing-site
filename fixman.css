@@ -258,7 +258,7 @@ button,input {
 /* ============= Main Body CSS ============= */
 
 .main-container{
-    background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('./kilian-seiler-PZLgTUAhxMM-unsplash.jpg');
+    background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('../kilian-seiler-PZLgTUAhxMM-unsplash.jpg');
     height: 86vh;
     width: 100vw;
     background-position: center;
@@ -568,7 +568,7 @@ button,input {
 
 .about{
     margin-top: 90px;
-    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.5)), url("./jan-vlacuha-Rns_A8bJ_dQ-unsplash.jpg");
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.5)), url("../jan-vlacuha-Rns_A8bJ_dQ-unsplash.jpg");
     height: 50vh;
     width: 100vw;
 }
